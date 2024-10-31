@@ -58,7 +58,7 @@ Answer: To run this script, you need Python installed, along with the edge-tts a
 
 #### Question 2. How can I change the voice in the speak function?
 
-Answer: You can change the voice by passing a different voice parameter to the speak() function.
+Answer: You can change the voice by passing a different voice parameter to the `speak()` function.
 
  For example:
 
